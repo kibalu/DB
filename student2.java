@@ -1,7 +1,12 @@
 import java.sql.*;
 import java.util.*;
 import java.text.*;
-
+/*
+ * The reason i choose this code is that Java is my most familiar language and this is the largest project writen in java during my master 
+ * degree. Although my internship project is also in java, i cannot show them due to policy of that company. On the other hand, this piece is
+ * of code is not complicated, but it is quite long, which showed i am able to write long code during work.
+ *
+ */
 
 public class student2 {
 
